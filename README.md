@@ -21,13 +21,23 @@ Seguindo as boas práticas de **Engenharia de Dados**, o projeto foi dividido em
 3. **Análise Inicial:** Cálculo da percentagem de cancelamentos para entender o tamanho do problema.
 4. **Análise Profunda:** Cruzamento de informações para descobrir a "causa raiz" dos cancelamentos.
 
+### Visualização de Dados: 
+Análise de Idade
+[Análise de Idade vs Churn](Idade.png)
+Análise de Dias de Atraso
+[Análise de Idade vs Churn](dias_atraso.png)
+Análise Ligações Call Center
+[Análise de Idade vs Churn](ligacoes_callcenter.png)
+
+
 ## Insights e Resultados
 Através dos gráficos gerados, foi possível observar que:
 - Clientes com contrato mensal têm uma taxa de cancelamento muito maior.
 - Problemas no setor de atendimento impactam diretamente na retenção.
 
 
-> Para visualizar os gráficos interativos em tempo real, acesse o projeto no Google Colab https://colab.research.google.com/drive/1TcMQwSunGKJMGSq2XnL6oEMy9vsBL1Gy#scrollTo=HO7DrufuB3d6.
+> Os gráficos acima apresentam os resultados chave da análise. Para explorar a interatividade completa
+e verificar o código fonte detalhado, acesse o projeto original no Google Colab https://colab.research.google.com/drive/1TcMQwSunGKJMGSq2XnL6oEMy9vsBL1Gy#scrollTo=HO7DrufuB3d6.
 
 ---
 **Vinicius de Araujo Chavari** *Estudante de ADS na Anhanguera | Focado em transformar dados em inteligência de negócio.*
