@@ -22,12 +22,16 @@ Seguindo as boas práticas de **Engenharia de Dados**, o projeto foi dividido em
 4. **Análise Profunda:** Cruzamento de informações para descobrir a "causa raiz" dos cancelamentos.
 
 ### Visualização de Dados: 
-Análise de Idade
-[Análise de Idade vs Churn](Idade.png)
-Análise de Dias de Atraso
-[Análise de Idade vs Churn](dias_atraso.png)
-Análise Ligações Call Center
-[Análise de Idade vs Churn](ligacoes_callcenter.png)
+
+
+Análise de Idade vs Churn
+<img src="Idade.png" width="100px" alt="Análise de Idade">
+
+Análise de Dias de Atraso vs Churn
+<img src="dias_atraso.png" width="100px" alt="Análise de Dias de Atraso">
+
+Análise Ligações Call Center vs Churn
+<img src="ligacoes_callcenter.png" width="100px" alt="Análise Ligações Call Center">
 
 
 ## Insights e Resultados
