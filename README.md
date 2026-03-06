@@ -22,7 +22,7 @@ Seguindo as boas práticas de **Engenharia de Dados**, o projeto foi dividido em
 4. **Análise Profunda:** Cruzamento de informações para descobrir a "causa raiz" dos cancelamentos.
 
 
-### Visualização de Dados: 
+## Visualização de Dados
 
 
 **Análise de Idade vs Churn**
